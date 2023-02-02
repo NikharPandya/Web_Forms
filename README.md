@@ -1,2 +1,2 @@
-# Login-Form-html-css-js
-made responsive animated form using HTML &amp;CSS and Javascript 
+# Web Forms
+This repo displays examples of web forms with HTML,Css,JavaScript & Node.js
